@@ -1,3 +1,3 @@
 #! usr/bin/env groovy
 @Library('roche_shared_library')_
-Update check_pull_request()
+check_pull_request()
